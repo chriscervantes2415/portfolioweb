@@ -27,7 +27,7 @@ const Projects = () => {
         <ProjectCard
           img={royalvogueadmin.src}
           title="Royal Vogue Admin Page"
-          link="https://blog.reactbd.com/"
+          link="https://photos.app.goo.gl/bgqeqo4e7DoaMiJh6"
         />
         <ProjectCard
           img={dynamicPortfolio.src}
@@ -36,7 +36,7 @@ const Projects = () => {
         />
         <ProjectCard
           img={laptophaven.src}
-          title="Laptop Haven"
+          title="Laptop Haven (Front-end)"
           link="https://chriscervantes2415.github.io/MP2_WD76_Cervantes/"
         />
       </div>
