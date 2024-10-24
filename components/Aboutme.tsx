@@ -7,7 +7,7 @@ const Aboutme = () => {
       <Title text="About Me" icon={<SiInformatica />} />
       <div className="text-lg tracking-wide flex flex-col gap-6">
         <p>
-          I am a web developer for more than a year using React and other . I
+          I am a web developer for more than a year. I
           possess a solid background in both front-end and back-end development,
           and I am proficient in in utilizing React and other technologies to create responsive and
           user-friendly web applications . I&#39;ve worked on a range of projects in
