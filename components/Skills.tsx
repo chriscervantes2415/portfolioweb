@@ -18,6 +18,10 @@ const Skills = () => {
           title="Typescript"
           link="https://www.typescriptlang.org/"
         />
+        <SkillsInput
+          title="PHP"
+          link="https://www.php.net/"
+        />
       
         <SkillsInput title="MongoDB" link="https://www.mongodb.com/" />
         <SkillsInput title="MySQL" link="https://www.apachefriends.org/" />
