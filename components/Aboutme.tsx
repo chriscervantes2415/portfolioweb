@@ -13,7 +13,7 @@ const Aboutme = () => {
           user-friendly web applications . I&#39;ve worked on a range of projects in
           the past, consisting of creating and managing
           single-page/multi-page apps or websites integrating with REST APIs,
-          and implementing responsive design principles. I am also proficient in
+          and implementing responsive design principles. I am also knowledgeable in
           using tools such as Webpack, npm, and Git for development and
           deployment. In addition to my technical skills, I am a strong
           communicator and team player. I am able to work effectively with
